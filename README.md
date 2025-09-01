@@ -26,10 +26,17 @@ I'm a passionate developer focused on building impactful digital products. I enj
 - Developer tooling & productivity apps  
 
 ## 📫 Reach Me At
-- 📧 Email: [ayush.tiwari@parkhya.net](mailto:ayush.tiwari@parkhya.net)  
-- 💼 LinkedIn: [ayush-tiwari-ji](https://www.linkedin.com/in/ayush-tiwari-ji/)  
-- 💼 X: [@ayush_tiwari_ji](https://x.com/ayush_tiwari_ji)  
-
+<p align="center">
+  <a href="mailto:ayush.tiwari@parkhya.net" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/ayush-tiwari-ji/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/ayush_tiwari_ji" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+</p>
 
 ## ⚡ Fun Fact
 I write clean code, but my coffee table isn’t. ☕  
