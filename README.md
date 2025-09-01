@@ -27,8 +27,9 @@ I'm a passionate developer focused on building impactful digital products. I enj
 
 ## 📫 Reach Me At
 - 📧 Email: [ayush.tiwari@parkhya.net](mailto:ayush.tiwari@parkhya.net)  
-- 💼 LinkedIn: [ayush-tiwariji](https://www.linkedin.com/in/ayush-tiwariji)  
+- 💼 LinkedIn: [ayush-tiwari-ji](https://www.linkedin.com/in/ayush-tiwari-ji/)  
 - 💼 X: [@ayush_tiwari_ji](https://x.com/ayush_tiwari_ji)  
+
 
 ## ⚡ Fun Fact
 I write clean code, but my coffee table isn’t. ☕  
