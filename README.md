@@ -24,11 +24,11 @@ I'm a passionate developer with a keen interest in building impactful digital pr
 - Open source projects  
 - Scalable web applications  
 - Developer tooling and productivity apps
-
 ## 📫 Reach Me At
 - 📧 Email: [ayush.tiwari@parkhya.net](mailto:ayush.tiwari@parkhya.net)  
-- 💼 LinkedIn: [linkedin.com/in/ayush-tiwariji](https://linkedin.com/in/ayush-tiwariji)  
+- 💼 X: [@ayush_tiwari_ji](https://x.com/ayush_tiwari_ji)  
 - 🐦 Twitter: [@ayush_tiwariji](https://twitter.com/ayush_tiwariji)
+
 
 ## ⚡ Fun Fact
 I write clean code, but my coffee table isn’t.
