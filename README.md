@@ -9,31 +9,30 @@
 # 👋 Hi, I'm Ayush Tiwari
 
 ## 👨‍💻 About Me
-I'm a passionate developer with a keen interest in building impactful digital products. I believe in continuous learning and love solving real-world problems through code.
+I'm a passionate developer focused on building impactful digital products. I enjoy solving real-world problems through code and believe in continuous learning.
 
 ## 👀 Interests
 - Full Stack Web Development  
 - Open Source Contributions  
-- DevOps & Automation
+- DevOps & Automation  
 
 ## 🌱 Currently Learning
-- TypeScript and Next.js  
-- Microservices Architecture
+- TypeScript & Next.js  
+- Microservices Architecture  
 
 ## 💬 Let's Collaborate On
 - Open source projects  
 - Scalable web applications  
-- Developer tooling and productivity apps
+- Developer tooling & productivity apps  
+
 ## 📫 Reach Me At
 - 📧 Email: [ayush.tiwari@parkhya.net](mailto:ayush.tiwari@parkhya.net)  
 - 💼 X: [@ayush_tiwari_ji](https://x.com/ayush_tiwari_ji)  
-- 🐦 Twitter: [@ayush_tiwariji](https://twitter.com/ayush_tiwariji)
-
+- 🐦 Twitter: [@ayush_tiwariji](https://twitter.com/ayush_tiwariji)  
 
 ## ⚡ Fun Fact
-I write clean code, but my coffee table isn’t.
+I write clean code, but my coffee table isn’t. ☕  
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – AYUSH
-****
+> “Code is like humor. When you have to explain it, it’s bad.” – Ayush
